@@ -1,0 +1,9 @@
+
+{
+  "name": "GreenRashtra Recycling",
+  "description": "A professional e-waste recycling platform for GreenRashtra Recycling, focusing on sustainable electronic waste management and environmental conservation in India.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
